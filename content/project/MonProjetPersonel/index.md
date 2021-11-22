@@ -9,7 +9,7 @@ categories: []
 date: 2021-11-14T13:52:09+03:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/HISSEINI/blog"
+external_link: "https://github.com/HISSEINI/HISSEINI.github.io/tree/main"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
