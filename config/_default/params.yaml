@@ -20,40 +20,40 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: 1032209306@pfur.ru
+phone: +7 977 429 48 33
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 19 Miklukho Maklaya street. 
+  city: Moscow
+  region: ''
+  postcode: '117198'
+  country: The Russia Federation.
+  country_code: RU
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '55.651989'
+  longitude: '37.507035'
+directions: Enter Building  and take the stairs to office 264 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
+  - icon: envelope
     icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: email
+    link: mailto:bollouyami@yandex.ru
+  - icon: facebook
+    icon_pack: fab
+    name:  facebook
+    link: https://www.facebook.com/hissenali.weddei/
+  - icon: github
+    icon_pack: fab
+    name: link to github
+    link: https://github.com/HISSEINI
+  - icon: vk
+    icon_pack: fab
+    name:  Vcontact
+    link: https://vk.com/id446548987
 
 # Site header
 
@@ -141,9 +141,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapnik'
   api_key: ''
-  zoom: 15
+  zoom: 25
 marketing:
   google_analytics: ''
   google_tag_manager: ''
@@ -156,3 +156,4 @@ cms:
 icon:
   pack:
     ai: true
+
