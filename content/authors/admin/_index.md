@@ -52,13 +52,13 @@ social:
   link: https://www.facebook.com/hissenali.weddei/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=fr&user=D_1edCwAAAAJ&view_op=list_works&gmla=AJsN-F7RxSYzEe_pbPEh00Yo973W2OwXenDwl5KcGB7Miu02YkJg-8BEM6cgXbc2M0KzAm-h2jSPg6PRpmycgT-HW9ZKrPWLP7tg6RyFEWDeAF-QG7p9SLtTYgJwBvVZaPr1z5Fq016H22Bk1NZsnaMMxEooEB82O1yWP390cbj_yFTV9Crwc8A
 - icon: github
   icon_pack: fab
   link: https://github.com/HISSEINI
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B8-%D1%83%D1%8D%D0%B4%D0%B4%D0%B5%D0%B9-%D1%85%D0%B8%D1%81%D1%81%D0%B5%D0%BD-512731228/
 - icon: vk
   icon_pack: fab
   link: https://vk.com/id446548987
