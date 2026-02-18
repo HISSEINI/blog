@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.Lang }}" {{ if in (slice "ar" "he" "fa" "ur") site.Language.Lang }}dir="rtl"{{ end }}>
+
+{{ partial "site_head" . }}
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="{{ if or .IsHome (eq .Type "widget_page") }}#navbar-main{{ else }}#TableOfContents{{ end }}" class="{{ if not (.Scratch.Get "light") }}dark{{ end }}">
+
+  {{ partial "search" . }}
+
+  {{ partial "navbar" . }}
+
+  {{ block "main" . }}{{ end }}
+
+  {{ partial "site_footer" . }}
+
+  {{ partial "citation" . }}
+
+</body>
+</html>
